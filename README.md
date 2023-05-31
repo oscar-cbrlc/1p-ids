@@ -12,7 +12,12 @@
 
 
 
------ Practica -----
+
+
+
+
+
+-------- Practica --------
 
 
 Paso 1: clonar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git
