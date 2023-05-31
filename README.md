@@ -66,7 +66,7 @@ computadora 2 - Añadir una imagen de perros </br>
 - suban sus archivos con el comando `push`
  
 computadora 1 - hara un `pull` para obtener los archivos del otro </br>
-computadora 1 - crea un collage con tu imagen y la del compañero </br>
+computadora 1 - crea un collage con tu imagen y la del compañero y llamalo "collage1" </br>
 
 - guarden los cambios con el comando `commit`
 - borra la imagen que ya utilizaste (`git rm <archivo>`)
@@ -76,67 +76,65 @@ computadora 1 - crea un collage con tu imagen y la del compañero </br>
 --------------------
 
 ### Equipo 3 <a name="equipo3"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `abc` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `def` y texto al azar </br>
+computadora 1 - Añadir un archivo c++ llamdo `x` el codigo debe imprimir hola mundo </br>
+computadora 2 -  Añadir un archivo c++ llamdo `y` el codigo debe imprimir la suma de 2 numeros </br>
 
 - suban sus archivos con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
 
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `abc` y `def` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `def` y `abc` </br>
+computadora 1 - crea un nuevo archivo con el nombre `codigo1` en donde combinaras el codigo de `x` y `y` </br>
 
 - guarden los cambios con el comando `commit`
-- borren los archivos `abc` y `def` (`git rm <archivo>`)
+- borren los archivos `x` y `y` (`git rm <archivo>`)
 - en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
 - de nuevo suban sus archivos.
 
 --------------------
 
 ### Equipo 4 <a name="equipo4"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `abc` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `def` y texto al azar </br>
+computadora 1 - Añadir una imagen de un teclado </br>
+computadora 2 - Añadir una imagen de un monitor </br>
 
 - suban sus archivos con el comando `push`
-- ambas computadoras haran un `pull` para obtener los archivos del otro
-
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `abc` y `def` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `def` y `abc` </br>
+ 
+computadora 1 - hara un `pull` para obtener los archivos del otro </br>
+computadora 1 - crea un collage con tu imagen y la del compañero y llamalo "collage2" </br>
 
 - guarden los cambios con el comando `commit`
-- borren los archivos `abc` y `def` (`git rm <archivo>`)
+- borra la imagen que ya utilizaste (`git rm <archivo>`)
 - en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- de nuevo suban sus archivos.
+- sube tu collage
 
 --------------------
 
 ### Equipo 5 <a name="equipo5"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `abc` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `def` y texto al azar </br>
+computadora 1 - Añadir un archivo c++ llamdo `a` el codigo debe imprimir la resta de 2 numeros </br>
+computadora 2 -  Añadir un archivo c++ llamdo `b` el codigo debe imprimir `falso` si 1 > 2 o `verdad` si 1 < 2</br>
 
 - suban sus archivos con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
 
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `abc` y `def` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `def` y `abc` </br>
+computadora 1 - crea un nuevo archivo con el nombre `codigo1` en donde combinaras el codigo de `a` y `b` </br>
 
 - guarden los cambios con el comando `commit`
-- borren los archivos `abc` y `def` (`git rm <archivo>`)
+- borren los archivos `a` y `b` (`git rm <archivo>`)
 - en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
 - de nuevo suban sus archivos.
+
 
 --------------------
 
 ### Equipo 6 <a name="equipo6"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `abc` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `def` y texto al azar </br>
+computadora 1 - Añadir un archivo de texto con el nombre `uvw` y texto al azar </br>
+computadora 2 - Añadir un archivo de texto con el nombre `xyz` y texto al azar </br>
 
 - suban sus archivos con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
 
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `abc` y `def` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `def` y `abc` </br>
+computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `uvw` y `xyz` </br>
+computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `xyz` y `uvw` </br>
 
 - guarden los cambios con el comando `commit`
-- borren los archivos `abc` y `def` (`git rm <archivo>`)
+- borren los archivos `uvw` y `xyz` (`git rm <archivo>`)
 - en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
 - de nuevo suban sus archivos.
