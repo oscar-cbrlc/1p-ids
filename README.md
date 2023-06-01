@@ -21,12 +21,12 @@
   
 
 ## ¿Cómo instalar este repositorio?<a name="instalar"></a>
-1. Navega desde tu explorador hasta la ubicación donde quieras trabajar en el repositorio</br>
-2. Haz click derecho y selecciona "Abrir en Terminal"</br>
-<img src="https://github.com/oscar-cbrlc/1p-ids/assets/65133949/9d61d447-c01e-4d9c-b6df-952972289aea" width="600" height="400"></br>
+1. Navega desde tu explorador hasta la ubicación donde quieras trabajar en el repositorio</br></br>
+2. Haz click derecho y selecciona "Abrir en Terminal"</br></br>
+<img src="https://github.com/oscar-cbrlc/1p-ids/assets/65133949/9d61d447-c01e-4d9c-b6df-952972289aea" width="600" height="400"></br></br>
 3. Escribe el siguiente comando y presiona Enter: </br>
-`git clone  https://github.com/oscar-cbrlc/1p-ids.git`</br>
-4. ¡Listo! Se clonó el repositorio</br>
+`git clone  https://github.com/oscar-cbrlc/1p-ids.git`</br></br>
+4. ¡Listo! Se clonó el repositorio</br></br>
 <img src="https://github.com/oscar-cbrlc/1p-ids/assets/65133949/bc889035-eb81-45d5-b540-13d050964257" width="600" height="400"></br>
 
 
@@ -40,7 +40,15 @@ Paso 1:
 
 Paso 2:
 - Crear una rama con el nombre de tu equipo
-</br></br>
+- Editar este archivo README, pegar el link de tu rama en la tabla de colaboradores y guardar los cambios</br></br>
+
+![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/d2a54c21-c801-4abd-8b41-9aea43898268)</br></br>
+----
+![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/8d837f1b-54cb-4470-b03a-ad1db7814dbc)</br></br>
+----
+![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/40036dbd-356a-412e-89af-339ff23b77be)</br></br>
+
+</br>
 
 ### Equipo 1 <a name="equipo1"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables </br>
@@ -53,9 +61,11 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 - borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
 - suban el programa combinado a tu rama
 
---------------------
+
+---
 
 ### Equipo 2 <a name="equipo2"></a>
+
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la resta de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima la del valor más pequeño </br>
 
@@ -66,7 +76,7 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 - borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
 - suban el programa combinado a tu rama
 
---------------------
+---
 
 ### Equipo 3 <a name="equipo3"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la multiplicacion de 2 variables </br>
@@ -79,7 +89,7 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 - borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
 - suban el programa combinado a tu rama
 
---------------------
+---
 
 ### Equipo 4 <a name="equipo4"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la division de 2 variables </br>
@@ -92,7 +102,7 @@ computadora 2 - Crea un progrma c++ en donde se sumen 2 variables y si es mayor 
 - borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
 - suban el programa combinado a tu rama
 
---------------------
+---
 
 ### Equipo 5 <a name="equipo5"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables, multiplicado por 2 </br>
@@ -106,7 +116,7 @@ computadora 2 - Crea un progrma c++ en donde se sumen o resten 2 variables y si 
 - suban el programa combinado a tu rama
 
 
---------------------
+---
 
 ### Equipo 6 <a name="equipo6"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el promedio de 2 variables </br>
