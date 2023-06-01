@@ -10,8 +10,8 @@
 | Equipo 6 | (link) |
 
 ##  Contenidos
-### 1. [Instalación](#instalar)
-### 2. [Práctica](#practica)
+1. [Instalación](#instalar)
+2. [Práctica](#practica)
 - [Equipo 1](#equipo1)
 - [Equipo 2](#equipo2)
 - [Equipo 3](#equipo3)
@@ -35,6 +35,10 @@
 
 ## Práctica<a name="practica"></a>
 
+### Objetivo
+Conocer y aplicar conocimientos de control de versiones en colaboración con un equipo. Ejecutar comandos de Git para aplicar cambios, resolver conflictos, actualizar versiones y unir ramas de trabajo de un repositorio. 
+
+### Instrucciones
 Paso 1:
 - Clonar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git
 
@@ -50,7 +54,7 @@ Paso 2:
 
 </br>
 
-### Equipo 1 <a name="equipo1"></a>
+#### Equipo 1 <a name="equipo1"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima la del valor más grande </br>
 
@@ -64,7 +68,7 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 
 ---
 
-### Equipo 2 <a name="equipo2"></a>
+#### Equipo 2 <a name="equipo2"></a>
 
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la resta de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima la del valor más pequeño </br>
@@ -78,7 +82,7 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 
 ---
 
-### Equipo 3 <a name="equipo3"></a>
+#### Equipo 3 <a name="equipo3"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la multiplicacion de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima 'Iguales' si tienen el mismo valor o 'No iguales' cuando no</br>
 
@@ -91,7 +95,7 @@ computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprim
 
 ---
 
-### Equipo 4 <a name="equipo4"></a>
+#### Equipo 4 <a name="equipo4"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la division de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se sumen 2 variables y si es mayor a 0, imprime 'La suma es positiva' en caso de que no, 'La suma es negativa' </br>
 
@@ -104,7 +108,7 @@ computadora 2 - Crea un progrma c++ en donde se sumen 2 variables y si es mayor 
 
 ---
 
-### Equipo 5 <a name="equipo5"></a>
+#### Equipo 5 <a name="equipo5"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables, multiplicado por 2 </br>
 computadora 2 - Crea un progrma c++ en donde se sumen o resten 2 variables y si es igual a 0, imprime 'La operacion es resulto en 0' </br>
 
@@ -118,7 +122,7 @@ computadora 2 - Crea un progrma c++ en donde se sumen o resten 2 variables y si 
 
 ---
 
-### Equipo 6 <a name="equipo6"></a>
+#### Equipo 6 <a name="equipo6"></a>
 computadora 1 - Crea un progrma c++ en donde se imprimira el promedio de 2 variables </br>
 computadora 2 - Crea un progrma c++ en donde se dividan 2 variables y si el resultado es 0, imprime 'La fraccion es menor a 1' en caso de que no sea 0, imprime 'La fraccion es mayor o igual a 1' </br>
 
