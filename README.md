@@ -51,99 +51,80 @@ Paso 2:
 </br>
 
 ### Equipo 1 <a name="equipo1"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `abc` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `def` y texto al azar </br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables </br>
+computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima la del valor más grande </br>
 
-- suban sus archivos con el comando `push`
+- suban sus archivos a su rama con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
-
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `abc` y `def` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `def` y `abc`  </br>
-
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borren los archivos `abc` y `def` (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- de nuevo suban sus archivos.
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
 
 
 ---
 
 ### Equipo 2 <a name="equipo2"></a>
-computadora 1 - Añadir una imagen de gatos </br>
-computadora 2 - Añadir una imagen de perros </br>
 
-- suban sus archivos con el comando `push`
- 
-computadora 1 - hara un `pull` para obtener los archivos del otro </br>
-computadora 1 - crea un collage con tu imagen y la del compañero y llamalo `collage1` </br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la resta de 2 variables </br>
+computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima la del valor más pequeño </br>
 
+- suban sus archivos a su rama con el comando `push`
+- ambas computadoras haran un `pull` para obtener los archivos del otro
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borra la imagen que ya utilizaste (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- sube tu collage
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
 
 ---
 
 ### Equipo 3 <a name="equipo3"></a>
-computadora 1 - Añadir un archivo c++ llamdo `x` el codigo debe imprimir hola mundo </br>
-computadora 2 -  Añadir un archivo c++ llamdo `y` el codigo debe imprimir la suma de 2 numeros </br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la multiplicacion de 2 variables </br>
+computadora 2 - Crea un progrma c++ en donde se comparan 2 variables y se imprima 'Iguales' si tienen el mismo valor o 'No iguales' cuando no</br>
 
-- suban sus archivos con el comando `push`
+- suban sus archivos a su rama con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
-
-computadora 1 - crea un nuevo archivo con el nombre `codigo1` en donde combinaras el codigo de `x` y `y` </br>
-
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borren los archivos `x` y `y` (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- de nuevo suban sus archivos.
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
 
 ---
 
 ### Equipo 4 <a name="equipo4"></a>
-computadora 1 - Añadir una imagen de un teclado </br>
-computadora 2 - Añadir una imagen de un monitor </br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la division de 2 variables </br>
+computadora 2 - Crea un progrma c++ en donde se sumen 2 variables y si es mayor a 0, imprime 'La suma es positiva' en caso de que no, 'La suma es negativa' </br>
 
-- suban sus archivos con el comando `push`
- 
-computadora 1 - hara un `pull` para obtener los archivos del otro </br>
-computadora 1 - crea un collage con tu imagen y la del compañero y llamalo `collage2` </br>
-
+- suban sus archivos a su rama con el comando `push`
+- ambas computadoras haran un `pull` para obtener los archivos del otro
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borra la imagen que ya utilizaste (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- sube tu collage
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
 
 ---
 
 ### Equipo 5 <a name="equipo5"></a>
-computadora 1 - Añadir un archivo c++ llamdo `a` el codigo debe imprimir la resta de 2 numeros </br>
-computadora 2 -  Añadir un archivo c++ llamdo `b` el codigo debe imprimir `falso` si 1 > 2 o `verdad` si 1 < 2</br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el resultado de la suma de 2 variables, multiplicado por 2 </br>
+computadora 2 - Crea un progrma c++ en donde se sumen o resten 2 variables y si es igual a 0, imprime 'La operacion es resulto en 0' </br>
 
-- suban sus archivos con el comando `push`
+- suban sus archivos a su rama con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
-
-computadora 1 - crea un nuevo archivo con el nombre `codigo1` en donde combinaras el codigo de `a` y `b` </br>
-
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borren los archivos `a` y `b` (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- de nuevo suban sus archivos.
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
 
 
 ---
 
 ### Equipo 6 <a name="equipo6"></a>
-computadora 1 - Añadir un archivo de texto con el nombre `uvw` y texto al azar </br>
-computadora 2 - Añadir un archivo de texto con el nombre `xyz` y texto al azar </br>
+computadora 1 - Crea un progrma c++ en donde se imprimira el promedio de 2 variables </br>
+computadora 2 - Crea un progrma c++ en donde se dividan 2 variables y si el resultado es 0, imprime 'La fraccion es menor a 1' en caso de que no sea 0, imprime 'La fraccion es mayor o igual a 1' </br>
 
-- suban sus archivos con el comando `push`
+- suban sus archivos a su rama con el comando `push`
 - ambas computadoras haran un `pull` para obtener los archivos del otro
-
-computadora 1 - crea un nuevo archivo con el nombre `aportacion1` en donde vas a copear y pegar el texto de `uvw` y `xyz` </br>
-computadora 2 - crea un nuevo archivo con el nombre `aportacion2` en donde vas a copear y pegar el texto de `xyz` y `uvw` </br>
-
+- van a crear otro archivo en donde van a combinar los 2 programas en uno solo
 - guarden los cambios con el comando `commit`
-- borren los archivos `uvw` y `xyz` (`git rm <archivo>`)
-- en caso de equivocarse utiliza al comando `revert` para recuperar su progreso hasta el commit que se hizo
-- de nuevo suban sus archivos.
+- borren los programas que realizaron al inicio y solo guarden la que fue combinada (`git rm <archivo>`)
+- suban el programa combinado a tu rama
