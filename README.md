@@ -39,19 +39,9 @@
 Conocer y aplicar conocimientos de control de versiones en colaboración con un equipo. Ejecutar comandos de Git para aplicar cambios, resolver conflictos, actualizar versiones y unir ramas de trabajo de un repositorio. 
 
 ### Instrucciones
-Paso 1:
-- Clonar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git
-
-Paso 2:
-- Crear una rama con el nombre de tu equipo
-- Editar este archivo README, pegar el link de tu rama en la tabla de colaboradores y guardar los cambios</br></br>
-
-![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/d2a54c21-c801-4abd-8b41-9aea43898268)</br></br>
-----
-![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/8d837f1b-54cb-4470-b03a-ad1db7814dbc)</br></br>
-----
-![image](https://github.com/oscar-cbrlc/1p-ids/assets/65133949/40036dbd-356a-412e-89af-339ff23b77be)</br></br>
-
+1. Conar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git
+2. Cambiar a la rama `dev`
+3. Crear una rama con el nombre de tu equipo a partir de esta rama
 </br>
 
 #### Equipo 1 <a name="equipo1"></a>
