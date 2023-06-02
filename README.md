@@ -30,7 +30,7 @@
 Conocer y aplicar conocimientos de control de versiones en colaboración con un equipo. Ejecutar comandos de Git para aplicar cambios, resolver conflictos, actualizar versiones y unir ramas de trabajo de un repositorio. 
 
 ### Instrucciones
-1. Conar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git </br>
+1. Clonar el repositorio de https://github.com/oscar-cbrlc/1p-ids.git </br>
 
 2. Cambiar a la rama `dev` </br>
 
@@ -42,7 +42,6 @@ Conocer y aplicar conocimientos de control de versiones en colaboración con un 
 
 6. Computadora 2 -  Baja los archivos que subio la otra computadora. </br>
 
-7. Computadora 2 - Crea un archivo nuevo con el nombre de tu equipo en donde copearas los nombres y codigos de cada integrante. </br>
+7. Computadora 2 - Crea un archivo nuevo con el nombre de tu equipo en donde copiaras los nombres y codigos de cada integrante. </br>
 
 8. Borren los archivos que ya no necesitan y suban el del equipo completo a su rama.
-
